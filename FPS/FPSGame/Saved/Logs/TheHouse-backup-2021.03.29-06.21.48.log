@@ -1,0 +1,1434 @@
+﻿Log file open, 03/29/21 14:12:26
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TheHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189576
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.12.26:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.29-06.12.26:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.12.26:608][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.12.26:616][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.29-06.12.26:616][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.29-06.12.26:617][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.29-06.12.26:617][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.29-06.12.26:617][  0]LogHAL: Display: Platform has ~ 32 GB [34081296384 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.29-06.12.26:617][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.29-06.12.26:617][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.29-06.12.26:617][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:617][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.29-06.12.26:618][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.12.26:619][  0]LogInit: Computer: DESKTOP-ERRRFBF
+[2021.03.29-06.12.26:619][  0]LogInit: User: XINDONG
+[2021.03.29-06.12.26:619][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.03.29-06.12.26:619][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.29-06.12.26:619][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2021.03.29-06.12.26:619][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.29-06.12.26:619][  0]LogMemory: Process Physical Memory: 142.12 MB used, 142.12 MB peak
+[2021.03.29-06.12.26:619][  0]LogMemory: Process Virtual Memory: 130.13 MB used, 130.13 MB peak
+[2021.03.29-06.12.26:619][  0]LogMemory: Physical Memory: 12272.77 MB used,  20229.69 MB free, 32502.46 MB total
+[2021.03.29-06.12.26:619][  0]LogMemory: Virtual Memory: 134200656.00 MB used,  17068.44 MB free, 134217728.00 MB total
+[2021.03.29-06.12.26:623][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.29-06.12.26:636][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.29-06.12.26:636][  0]LogInit: Using OS detected language (en-US).
+[2021.03.29-06.12.26:636][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.29-06.12.26:637][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.29-06.12.26:755][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.29-06.12.26:763][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.29-06.12.26:781][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.29-06.12.26:781][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.29-06.12.26:867][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.29-06.12.26:867][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.29-06.12.26:867][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.29-06.12.26:867][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.29-06.12.26:930][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2021.03.29-06.12.26:930][  0]LogD3D11RHI:       8043/0/16251 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.29-06.12.26:958][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.03.29-06.12.26:958][  0]LogD3D11RHI:       128/0/16251 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.29-06.12.26:959][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.29-06.12.26:959][  0]LogD3D11RHI:       0/0/16251 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.29-06.12.26:959][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.29-06.12.26:965][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.29-06.12.26:965][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.29-06.12.26:965][  0]LogWindows: EnumDisplayDevices:
+[2021.03.29-06.12.26:965][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2021.03.29-06.12.26:965][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2021.03.29-06.12.26:965][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.03.29-06.12.26:965][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.03.29-06.12.26:966][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.29-06.12.26:966][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.29-06.12.26:966][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.29-06.12.26:966][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.03.29-06.12.26:966][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2021.03.29-06.12.26:966][  0]LogD3D11RHI:   Driver Version: 457.09 (internal:27.21.14.5709, unified:457.09)
+[2021.03.29-06.12.26:966][  0]LogD3D11RHI:      Driver Date: 10-22-2020
+[2021.03.29-06.12.26:966][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2021.03.29-06.12.27:008][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.29-06.12.27:008][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.29-06.12.27:008][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.29-06.12.27:021][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.29-06.12.27:022][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.29-06.12.27:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.29-06.12.27:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.29-06.12.27:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.29-06.12.27:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.29-06.12.27:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.29-06.12.27:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.29-06.12.27:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.29-06.12.27:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.29-06.12.27:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.29-06.12.27:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.29-06.12.27:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.29-06.12.27:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.29-06.12.27:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.29-06.12.27:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.29-06.12.27:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.29-06.12.27:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.29-06.12.27:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.29-06.12.27:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.29-06.12.27:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.29-06.12.27:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.29-06.12.27:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.29-06.12.27:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.29-06.12.27:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.29-06.12.27:362][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.29-06.12.27:366][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.29-06.12.27:404][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.29-06.12.27:404][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../MyGame/AmericanHorrorStory/TheHouse/Intermediate/Shaders/WorkingDirectory/26380/).
+[2021.03.29-06.12.27:404][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/XINDONG/AppData/Local/Temp/UnrealShaderWorkingDir/F455C6DE41D9200F73AA219F3F929029/'.
+[2021.03.29-06.12.27:404][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.29-06.12.27:404][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.29-06.12.27:963][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.29-06.12.28:014][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/XINDONG/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.29-06.12.28:014][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/XINDONG/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.29-06.12.28:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MyGame/AmericanHorrorStory/TheHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.29-06.12.28:014][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.29-06.12.28:014][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MyGame/AmericanHorrorStory/TheHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.29-06.12.28:014][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.29-06.12.28:029][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.29-06.12.28:029][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.29-06.12.28:029][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.29-06.12.28:063][  0]LogDerivedDataCache: Speed tests for C:/Users/XINDONG/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.03.29-06.12.28:063][  0]LogDerivedDataCache: Display: Performance to C:/Users/XINDONG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1805.57MBs, RandomWriteSpeed=28.19MBs. Assigned SpeedClass 'Local'
+[2021.03.29-06.12.28:064][  0]LogDerivedDataCache: Using Local data cache path C:/Users/XINDONG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.29-06.12.28:064][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.29-06.12.28:064][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.29-06.12.28:100][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.29-06.12.28:101][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.29-06.12.28:117][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2021.03.29-06.12.28:293][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.29-06.12.28:294][  0]LogInit: Active device profile: [0000029133B37B00][0000029131619940 49] Windows
+[2021.03.29-06.12.28:294][  0]LogInit: Profiles: [0000029133B37B00][0000029131619940 49] Windows, [0000029133B3C600][00000291329D1AC0 49] WindowsNoEditor, [0000029133B34600][00000291329D5C40 49] WindowsServer, [0000029133B3F500][00000291329D8100 49] WindowsClient, [0000029133B37300][0000029132A04280 49] IOS, [0000029133B3CD00][0000029132A08400 49] iPadAir, [0000029133B34A00][0000029132A0C580 49] iPadAir2, [0000029133ADD200][0000029132A14840 49] IPadPro, [0000029133ADD300][0000029132A10880 49] iPadAir3, [0000029133B37100][0000029132A18A00 49] iPadAir4, [0000029133ADCB00][0000029132A1CB80 49] iPadMini2, [0000029133B34F00][0000029132A20D00 49] iPadMini3, [0000029133ADE300][0000029132A24E80 49] iPadMini4, [0000029133B36900][0000029132A29000 49] iPadMini5, [0000029133B3F700][0000029134BD72C0 49] iPhone6, [0000029133B3D100][0000029132A2D300 49] iPodTouch6, [0000029133ADE200][000002913161D580 49] iPhone7, [0000029133ADC700][0000029134BDB5C0 49] iPodTouch7, [0000029133B3F200][0000029134BDF700 49] iPhone5S, [0000029133ADC200][0000029134BE3840 49] iPhone6Plus, [0000029133B3DD00][0000029134BE7980 49] iPhone6S, [0000029133ADCF00][0000029134BEFB00 49] iPhone6SPlus, [0000029133B3E600][0000029134BF3C80 49] iPhone7Plus, [0000029133ADF700][0000029134BF6140 49] iPhoneSE, [0000029133B3C500][0000029134BFA2C0 49] iPhone8, [0000029133ADD500][0000029134BFE440 49] iPhone8Plus, [0000029133B3DA00][0000029134C025C0 49] iPhoneX, [0000029133ADDD00][0000029134C06740 49] iPhoneXS, [0000029133B3E400][0000029134C0A8C0 49] iPhoneXSMax, [0000029133ADFF00][0000029134C0EA40 49] iPhoneXR, [0000029133B3E700][0000029134C12BC0 49] iPhone11, [0000029133ADC500][0000029134C16D40 49] iPhone11Pro, [0000029133B3CB00][0000029134C1AEC0 49] iPhone11ProMax, [0000029133ADFB00][0000029134C1F040 49] iPhoneSE2, [0000029133B3E300][0000029134C231C0 49] iPhone12Mini, [0000029133ADEA00][0000029134C27340 49] iPhone12, [0000029133B3EF00][0000029134C2B4C0 49] iPhone12Pro, [0000029133ADEE00][0000029134C2F640 49] iPhone12ProMax, [0000029133B3FE00][0000029134BEB780 49] iPadPro105, [0000029133ADEC00][0000029134C338C0 49] iPadPro129, [0000029133B3E500][0000029134C37A00 49] iPadPro97, [0000029133ADDB00][0000029134C3FB80 49] iPadPro2_129, [0000029133B3EC00][0000029134C43D00 49] iPad5, [0000029133ADD400][0000029134C461C0 49] iPad6, [0000029133B3F800][0000029134C4A340 49] iPad7, [0000029133ADF400][0000029134C4E4C0 49] iPad8, [0000029133B3C800][0000029134C52640 49] iPadPro11, [0000029133ADFD00][0000029134C567C0 49] iPadPro2_11, [0000029133B3FA00][0000029134C5A940 49] iPadPro3_129, [0000029133ADF800][0000029134C5EAC0 49] iPadPro4_129, [0000029133B3E000][0000029134C62C40 49] AppleTV, [0000029133ADF100][0000029134C66DC0 49] AppleTV4K, [0000029133B3E900][0000029134C6AF40 49] TVOS, [0000029133ADFE00][0000029134C6F0C0 49] Mac, [0000029133B3D800][0000029134C73240 49] MacClient, [0000029133ADEF00][0000029134C773C0 49] MacNoEditor, [0000029133B3D500][0000029134C7B540 49] MacServer, [0000029133ADE600][0000029134C7F6C0 49] Linux, [0000029133B3D000][0000029134C3B800 49] LinuxNoEditor, [0000029133ADD000][0000029134C83940 49] LinuxAArch64NoEditor, [0000029133B3ED00][0000029134C87A80 49] LinuxClient, [0000029133ADD800][0000029134C8FC00 49] LinuxAArch64Client, [0000029133B3C400][0000029134C920C0 49] LinuxServer, [0000029133ADE000][0000029134C96240 49] LinuxAArch64Server, [0000029133B35500][0000029134C9A3C0 49] Android, [0000029133BDC500][0000029134C9E540 49] Android_Low, [0000029133B37600][0000029134CA26C0 49] Android_Mid, [0000029133BDC600][0000029134CA6840 49] Android_High, [0000029133B36000][0000029134CAA9C0 49] Android_Default, [0000029133BDC400][0000029134CAEB40 49] Android_Adreno4xx, [0000029133B34400][0000029134CB2CC0 49] Android_Adreno5xx_Low, [0000029133BDD600][0000029134CB6E40 49] Android_Adreno5xx, [0000029133B36400][0000029134CDAFC0 49] Android_Adreno6xx, [0000029133BDD900][0000029134CDF140 49] Android_Adreno6xx_Vulkan, [0000029133B35800][0000029134CE32C0 49] Android_Mali_T6xx, [0000029133BDD700][0000029134CE7440 49] Android_Mali_T7xx, [0000029133B34100][0000029134CEB5C0 49] Android_Mali_T8xx, [0000029133BDCF00][0000029134CEF740 49] Android_Mali_G71, [0000029133B34700][0000029134C8B880 49] Android_Mali_G72, [0000029133BDC100][0000029134CF39C0 49] Android_Mali_G72_Vulkan, [0000029133B36A00][0000029134CF7B00 49] Android_Mali_G76, [0000029133BDCC00][0000029134CFBC40 49] Android_Mali_G76_Vulkan, [0000029133B37F00][0000029134D02100 49] Android_Mali_G77, [0000029133BDC300][0000029134D06280 49] Android_Mali_G77_Vulkan, [0000029133ADD600][0000029134D0A400 49] Android_Vulkan_SM5, [0000029133B3F000][0000029134D0E580 49] Android_PowerVR_G6xxx, [0000029133ADF000][0000029134D12700 49] Android_PowerVR_GT7xxx, [0000029133B3D700][0000029134D16880 49] Android_PowerVR_GE8xxx, [0000029133ADE400][0000029134D1AA00 49] Android_PowerVR_GM9xxx, [0000029133B3E100][0000029134D1EB80 49] Android_PowerVR_GM9xxx_Vulkan, [0000029133ADC400][0000029134D22D00 49] Android_TegraK1, [0000029133B3D400][0000029134D26E80 49] Android_Unknown_Vulkan, [0000029133ADCD00][0000029134D2B000 49] Lumin, [0000029133B3DC00][0000029134D2F180 49] Lumin_Desktop, [0000029133ADFA00][0000029134D33300 49] HoloLens, 
+[2021.03.29-06.12.28:369][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.29-06.12.28:370][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.29-06.12.28:370][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.29-06.12.28:370][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.29-06.12.28:370][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.29-06.12.28:387][  0]LogNetVersion: TheHouse 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2253516129)
+[2021.03.29-06.12.28:684][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.29-06.12.28:871][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.187371 seconds
+[2021.03.29-06.12.28:875][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.29-06.12.28:875][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.29-06.12.28:875][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.29-06.12.29:116][  0]LogPython: Using Python 3.7.7
+[2021.03.29-06.12.29:634][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.29-06.12.29:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.29-06.12.29:701][  0]SourceControl: Source control is disabled
+[2021.03.29-06.12.29:702][  0]SourceControl: Source control is disabled
+[2021.03.29-06.12.29:704][  0]SourceControl: Source control is disabled
+[2021.03.29-06.12.29:705][  0]SourceControl: Source control is disabled
+[2021.03.29-06.12.29:711][  0]SourceControl: Source control is disabled
+[2021.03.29-06.12.29:715][  0]LogUProjectInfo: Found projects:
+[2021.03.29-06.12.30:258][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.29-06.12.30:278][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.29-06.12.30:278][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.29-06.12.30:338][  0]LogCollectionManager: Loaded 0 collections in 0.001003 seconds
+[2021.03.29-06.12.30:356][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Collections/' took 0.00s
+[2021.03.29-06.12.30:356][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/Developers/XINDONG/Collections/' took 0.00s
+[2021.03.29-06.12.30:356][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/Collections/' took 0.00s
+[2021.03.29-06.12.30:356][  0]LogOcInput: OculusInput pre-init called
+[2021.03.29-06.12.30:365][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.29-06.12.30:365][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.29-06.12.30:641][  0]LogEngine: Initializing Engine...
+[2021.03.29-06.12.30:806][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.29-06.12.30:807][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.29-06.12.30:808][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.29-06.12.30:887][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.29-06.12.30:894][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.29-06.12.30:902][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.29-06.12.30:905][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.29-06.12.30:905][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.29-06.12.30:905][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.29-06.12.30:905][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.29-06.12.30:905][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.29-06.12.30:914][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.29-06.12.30:914][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.29-06.12.30:954][  0]LogAudioMixer: Display: Using Audio Device 耳机 (Realtek(R) Audio)
+[2021.03.29-06.12.30:958][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.29-06.12.30:959][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.29-06.12.30:960][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.29-06.12.30:960][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.29-06.12.30:960][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.29-06.12.30:960][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.29-06.12.30:961][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.29-06.12.30:961][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.29-06.12.30:961][  0]LogInit: FAudioDevice initialized.
+[2021.03.29-06.12.30:961][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.29-06.12.30:961][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.29-06.12.30:994][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/XINDONG/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.29-06.12.30:998][  0]LogInit: Texture streaming: Enabled
+[2021.03.29-06.12.31:005][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.29-06.12.31:008][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.29-06.12.31:008][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.29-06.12.31:010][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.29-06.12.31:035][  0]LogInit: Transaction tracking system initialized
+[2021.03.29-06.12.31:048][  0]BlueprintLog: New page: Editor Load
+[2021.03.29-06.12.31:092][  0]LocalizationService: Localization service is disabled
+[2021.03.29-06.12.31:108][  0]TimingProfiler: Initialize
+[2021.03.29-06.12.31:108][  0]TimingProfiler: OnSessionChanged
+[2021.03.29-06.12.31:108][  0]LoadingProfiler: Initialize
+[2021.03.29-06.12.31:108][  0]LoadingProfiler: OnSessionChanged
+[2021.03.29-06.12.31:108][  0]NetworkingProfiler: Initialize
+[2021.03.29-06.12.31:108][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.29-06.12.31:108][  0]MemoryProfiler: Initialize
+[2021.03.29-06.12.31:108][  0]MemoryProfiler: OnSessionChanged
+[2021.03.29-06.12.31:226][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.29-06.12.31:226][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.29-06.12.31:258][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/' took 0.01s
+[2021.03.29-06.12.31:467][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.29-06.12.31:469][  0]SourceControl: Source control is disabled
+[2021.03.29-06.12.31:469][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.594
+[2021.03.29-06.12.31:469][  0]Cmd: MAP LOAD FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-06.12.31:487][  0]LightingResults: New page: Lighting Build
+[2021.03.29-06.12.31:488][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.12.31:488][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.12.31:488][  0]MapCheck: New page: Map Check
+[2021.03.29-06.12.31:488][  0]LightingResults: New page: Lighting Build
+[2021.03.29-06.12.31:494][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.29-06.12.32:784][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.03.29-06.12.32:862][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.03.29-06.12.32:862][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.29-06.12.32:943][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-06.12.32:964][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.29-06.12.32:964][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-06.12.32:964][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2021.03.29-06.12.32:964][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.495
+[2021.03.29-06.12.32:965][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.090
+[2021.03.29-06.12.33:041][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2021.03.29-06.12.33:373][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.12.33:388][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.12.33:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.12.33:396][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.12.33:509][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3630 classes and 875 folders.
+[2021.03.29-06.12.33:577][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.29-06.12.33:714][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.29-06.12.33:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.12.33:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.03.29-06.12.33:723][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.29-06.12.33:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.29-06.12.33:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.03.29-06.12.33:728][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.29-06.12.33:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.29-06.12.33:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.29-06.12.33:764][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.12.33:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.12.33:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.29-06.12.33:776][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.29-06.12.33:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.29-06.12.33:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.29-06.12.33:780][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.29-06.12.33:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.29-06.12.33:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.03.29-06.12.33:786][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.29-06.12.33:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.29-06.12.33:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.29-06.12.33:809][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.29-06.12.33:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.29-06.12.33:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.29-06.12.33:826][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.29-06.12.33:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.29-06.12.33:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.29-06.12.33:833][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.29-06.12.33:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.29-06.12.33:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.29-06.12.33:838][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.29-06.12.33:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.29-06.12.33:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.03.29-06.12.33:854][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.29-06.12.33:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.29-06.12.33:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.03.29-06.12.33:859][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.12.33:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.12.33:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.03.29-06.12.33:865][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.29-06.12.33:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.29-06.12.33:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.03.29-06.12.33:870][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.29-06.12.33:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.29-06.12.33:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.29-06.12.33:882][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.29-06.12.33:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.12.33:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.29-06.12.33:888][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.29-06.12.33:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.29-06.12.33:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.03.29-06.12.33:893][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.29-06.12.33:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.29-06.12.33:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.03.29-06.12.33:897][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.12.33:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.12.33:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.03.29-06.12.33:915][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.12.33:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.12.33:915][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.03.29-06.12.33:927][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.29-06.12.33:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.12.33:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.03.29-06.12.33:932][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.29-06.12.33:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.29-06.12.33:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.29-06.12.33:949][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.29-06.12.33:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.29-06.12.33:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.03.29-06.12.33:957][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.29-06.12.33:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.29-06.12.33:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.03.29-06.12.33:965][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.12.33:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.12.33:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.03.29-06.12.33:988][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.29-06.12.33:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.12.33:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.29-06.12.33:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.03.29-06.12.34:648][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.29-06.12.34:681][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.29-06.12.34:953][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.29-06.12.34:954][  0]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.29-06.12.34:971][  0]LogSlate: Took 0.012830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.29-06.12.35:244][  0]LogRenderer: Reallocating scene render targets to support 1624x992 Format 10 NumSamples 1 (Frame:1).
+[2021.03.29-06.12.35:887][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.29-06.12.35:887][  0]LogLoad: (Engine Initialization) Total time: 10.01 seconds
+[2021.03.29-06.12.35:887][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.29-06.12.35:887][  0]LogInit: First time updating LLM stats...
+[2021.03.29-06.12.35:933][  0]LogAssetRegistry: Asset discovery search completed in 7.8158 seconds
+[2021.03.29-06.12.35:934][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.29-06.12.35:945][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.29-06.12.36:923][ 98]LogSlate: Took 0.015449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.29-06.12.41:951][576]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.29-06.12.42:405][576]LogBlueprintEditor: Perf: 0.4 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.03.29-06.12.42:405][576]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.03.29-06.12.42:814][576]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.03.29-06.12.43:959][576]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.29-06.12.56:706][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.03.29-06.12.56:959][801]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SmallOne.SmallOne
+[2021.03.29-06.12.56:959][801]Cmd: MAP LOAD FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/SmallOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-06.12.56:959][801]LightingResults: New page: Lighting Build
+[2021.03.29-06.12.56:959][801]LoadErrors: New page: Loading map: SmallOne.umap
+[2021.03.29-06.12.56:961][801]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.12.56:961][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.12.56:961][801]MapCheck: New page: Map Check
+[2021.03.29-06.12.56:961][801]LightingResults: New page: Lighting Build
+[2021.03.29-06.12.56:977][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-06.12.56:980][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.03.29-06.12.56:980][801]LogAudio: Display: Audio Device (ID: 1) registered with world 'SmallOne'.
+[2021.03.29-06.12.57:074][801]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-06.12.57:074][801]LogAIModule: Creating AISystem for world SmallOne
+[2021.03.29-06.12.57:121][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.03.29-06.12.57:132][801]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-06.12.57:132][801]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2021.03.29-06.12.57:132][801]LogFileHelpers: Loading map 'SmallOne' took 0.173
+[2021.03.29-06.18.21:237][497]LogDirectoryWatcher: A directory notification failed for 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.03.29-06.18.21:574][498]LogDirectoryWatcher: A directory notification failed for 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/Developers/XINDONG/Collections/' because it could not be accessed. Aborting watch request...
+[2021.03.29-06.18.21:913][499]LogDirectoryWatcher: A directory notification failed for 'D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.03.29-06.20.48:268][ 71]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.03.29-06.20.48:271][ 71]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.03.29-06.20.48:297][ 71]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.20.48:297][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.20.58:336][ 97]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2021.03.29-06.20.58:340][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.03.29-06.20.59:123][ 97]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.29-06.21.04:710][ 97]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.29-06.21.04:781][ 97]LogUObjectGlobals: Force Deleting 48 Package(s):
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle
+	Asset Name: /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire
+	Asset Name: /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+	Asset Name: /Game/FirstPerson/Meshes/BaseMaterial.BaseMaterial
+[2021.03.29-06.21.06:136][ 97]LogStaticMesh: Building static mesh FirstPersonProjectileMesh...
+[2021.03.29-06.21.06:161][ 97]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2021.03.29-06.21.06:202][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:232][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:233][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:235][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:236][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:237][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:238][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:239][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:240][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:242][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:244][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:245][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:246][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:247][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:248][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:249][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:251][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:252][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:253][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:254][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:255][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:256][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:258][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:259][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:260][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:261][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:262][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:263][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:265][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:266][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:267][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:268][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:269][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:270][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:272][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:273][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:274][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:275][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:276][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:277][ 97]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.29-06.21.06:278][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:279][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:279][ 97]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2021.03.29-06.21.06:311][ 97]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2021.03.29-06.21.06:439][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:440][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:441][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:443][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:444][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:445][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:446][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:448][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:449][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:450][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:451][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:453][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:454][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:455][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:456][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:458][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:459][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:460][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:461][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:463][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:465][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:466][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:467][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:468][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:470][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:471][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:472][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:473][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:474][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:474][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:475][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:475][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:475][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:475][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:475][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:475][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:475][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:477][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:478][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:479][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:480][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:482][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:484][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:485][ 97]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Display: 	Missing Material Function
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.29-06.21.06:486][ 97]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.29-06.21.06:487][ 97]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2021.03.29-06.21.06:510][ 97]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2021.03.29-06.21.06:558][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:558][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:558][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:559][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:559][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:559][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:559][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:560][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.06:560][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.03.29-06.21.07:407][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.03.29-06.21.07:422][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:436][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:449][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.29-06.21.07:464][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:477][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:490][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:503][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:517][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.03.29-06.21.07:531][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.29-06.21.07:544][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:558][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:571][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:584][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:597][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.29-06.21.07:611][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:624][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:637][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:651][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:665][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:679][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:691][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:705][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:718][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:731][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:744][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:758][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:771][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:784][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:797][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:810][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.29-06.21.07:823][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:836][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:849][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:863][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:878][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:891][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:904][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:917][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:931][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.29-06.21.07:944][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.07:957][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.29-06.21.07:971][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.03.29-06.21.07:984][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.29-06.21.07:997][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.29-06.21.08:010][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.29-06.21.08:025][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.03.29-06.21.08:038][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.29-06.21.10:878][378]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.29-06.21.10:881][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.21.10:881][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.21.10:881][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.21.10:881][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.21.10:882][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.21.10:882][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.21.10:882][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.21.10:883][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.21.10:887][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonHUD.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.21.10:887][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonHUD.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.21.10:887][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonHUD.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.21.10:889][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:889][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:889][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:889][378]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:890][378]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:893][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:893][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube10_4
+[2021.03.29-06.21.10:893][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:893][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube11_5
+[2021.03.29-06.21.10:893][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:893][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube12_6
+[2021.03.29-06.21.10:893][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:893][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube13_7
+[2021.03.29-06.21.10:893][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:894][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube14_8
+[2021.03.29-06.21.10:894][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:894][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube15_9
+[2021.03.29-06.21.10:894][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:894][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube16_10
+[2021.03.29-06.21.10:894][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:894][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube17_11
+[2021.03.29-06.21.10:894][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:894][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube18_12
+[2021.03.29-06.21.10:894][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:894][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube19_13
+[2021.03.29-06.21.10:894][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:894][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube20_14
+[2021.03.29-06.21.10:895][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:895][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube21_15
+[2021.03.29-06.21.10:895][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:895][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube8_2
+[2021.03.29-06.21.10:895][378]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.21.10:895][378]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube9_3
+[2021.03.29-06.21.10:898][378]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.03.29-06.21.10:908][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:908][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:908][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:908][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:909][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:909][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:909][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:909][378]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.21.10:909][378]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.29-06.21.10:909][378]LogObjectTools: Currently 4 active worlds: /Game/SmallOne.SmallOne, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2021.03.29-06.21.10:957][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.03.29-06.21.12:818][378]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.29-06.21.12:872][378]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+	Asset Name: /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview
+	Asset Name: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+	Asset Name: /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.29-06.21.13:338][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.03.29-06.21.13:401][378]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.03.29-06.21.13:624][378]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.21.13:624][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.21.15:567][378]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.424 s
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: 
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: Ensure condition failed: LevelVolumetricLightmaps.Num() == 0 [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Renderer/Private/RendererScene.cpp] [Line: 2337]
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: All volumetric lightmaps should have been removed before ~FScene(). Removing them anyway to avoid crash.
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: Stack: 
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff86d6f28b9 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff86d2acdf7 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff86d2b8f64 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff86d2e1208 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff86d2f36b8 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8aaa1ed11 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8aaa1f0fe UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8b969a442 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8b96a2b14 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8aaf789eb UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8aaf71680 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb77034 KERNEL32.DLL!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: [Callstack] 0x00007ff8ffe02651 ntdll.dll!UnknownFunction []
+[2021.03.29-06.21.15:567][378]LogOutputDevice: Error: 
+[2021.03.29-06.21.15:567][378]LogStats:                SubmitErrorReport -  0.000 s
+[2021.03.29-06.21.16:565][378]LogStats:                    SendNewReport -  0.998 s
+[2021.03.29-06.21.16:565][378]LogStats:             FDebug::EnsureFailed -  2.421 s
+[2021.03.29-06.21.47:986][378]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.29-06.21.47:986][378]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.03.29-06.21.48:008][378]LogWindows: Error: === Critical error: ===
+[2021.03.29-06.21.48:008][378]LogWindows: Error: 
+[2021.03.29-06.21.48:008][378]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp] [Line: 907] 
+[2021.03.29-06.21.48:008][378]LogWindows: Error: Rendering thread exception:
+[2021.03.29-06.21.48:008][378]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000000
+[2021.03.29-06.21.48:008][378]LogWindows: Error: 
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff865a27fe0 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff86d313f77 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff86d2ace5b UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff86d2b8f64 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff86d2e1208 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff86d2f36b8 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8aaa1ed11 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8aaa1f0fe UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8b969a442 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8b96a2b14 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8aaf789eb UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8aaf71680 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8ffb77034 KERNEL32.DLL!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: [Callstack] 0x00007ff8ffe02651 ntdll.dll!UnknownFunction []
+[2021.03.29-06.21.48:008][378]LogWindows: Error: 
+[2021.03.29-06.21.48:008][378]LogWindows: Error: 
+[2021.03.29-06.21.48:008][378]LogWindows: Error: 
+[2021.03.29-06.21.48:008][378]LogWindows: Error: 
+[2021.03.29-06.21.48:059][378]LogExit: Executing StaticShutdownAfterError
+[2021.03.29-06.21.48:062][378]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.03.29-06.21.48:062][378]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.03.29-06.21.48:083][378]Log file closed, 03/29/21 14:21:48

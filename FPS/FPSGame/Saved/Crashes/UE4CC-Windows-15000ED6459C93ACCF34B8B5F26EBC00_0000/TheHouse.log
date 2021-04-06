@@ -1,0 +1,1228 @@
+﻿Log file open, 03/29/21 14:21:57
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TheHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180163
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/XINDONG/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.21.57:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.29-06.21.57:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.21.57:812][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.21.57:821][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.29-06.21.57:821][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.29-06.21.57:822][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.29-06.21.57:822][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.29-06.21.57:822][  0]LogHAL: Display: Platform has ~ 32 GB [34081296384 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.29-06.21.57:822][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.29-06.21.57:822][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Scalability.ini]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.29-06.21.57:823][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Config/Windows/Engine.ini]
+[2021.03.29-06.21.57:823][  0]LogInit: Computer: DESKTOP-ERRRFBF
+[2021.03.29-06.21.57:823][  0]LogInit: User: XINDONG
+[2021.03.29-06.21.57:823][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.03.29-06.21.57:823][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.29-06.21.57:823][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2021.03.29-06.21.57:823][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.29-06.21.57:824][  0]LogMemory: Process Physical Memory: 141.62 MB used, 141.62 MB peak
+[2021.03.29-06.21.57:824][  0]LogMemory: Process Virtual Memory: 130.47 MB used, 130.47 MB peak
+[2021.03.29-06.21.57:824][  0]LogMemory: Physical Memory: 11858.92 MB used,  20643.54 MB free, 32502.46 MB total
+[2021.03.29-06.21.57:824][  0]LogMemory: Virtual Memory: 134200072.00 MB used,  17652.45 MB free, 134217728.00 MB total
+[2021.03.29-06.21.57:827][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.29-06.21.57:842][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.29-06.21.57:842][  0]LogInit: Using OS detected language (en-US).
+[2021.03.29-06.21.57:842][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.29-06.21.57:843][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.29-06.21.57:964][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.29-06.21.57:972][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.29-06.21.57:994][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.29-06.21.57:994][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.29-06.21.58:084][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.29-06.21.58:084][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.29-06.21.58:084][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.29-06.21.58:084][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.29-06.21.58:149][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2021.03.29-06.21.58:149][  0]LogD3D11RHI:       8043/0/16251 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.29-06.21.58:177][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.03.29-06.21.58:177][  0]LogD3D11RHI:       128/0/16251 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.29-06.21.58:179][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.29-06.21.58:179][  0]LogD3D11RHI:       0/0/16251 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.29-06.21.58:179][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.29-06.21.58:184][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.29-06.21.58:184][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.29-06.21.58:184][  0]LogWindows: EnumDisplayDevices:
+[2021.03.29-06.21.58:184][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2021.03.29-06.21.58:185][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2021.03.29-06.21.58:185][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.03.29-06.21.58:185][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.03.29-06.21.58:185][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.29-06.21.58:185][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.29-06.21.58:185][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.29-06.21.58:185][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.03.29-06.21.58:185][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2021.03.29-06.21.58:185][  0]LogD3D11RHI:   Driver Version: 457.09 (internal:27.21.14.5709, unified:457.09)
+[2021.03.29-06.21.58:185][  0]LogD3D11RHI:      Driver Date: 10-22-2020
+[2021.03.29-06.21.58:185][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2021.03.29-06.21.58:228][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.29-06.21.58:228][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.29-06.21.58:228][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.29-06.21.58:247][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.03.29-06.21.58:248][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.29-06.21.58:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.29-06.21.58:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.29-06.21.58:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.29-06.21.58:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.29-06.21.58:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.29-06.21.58:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.29-06.21.58:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.29-06.21.58:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.29-06.21.58:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.29-06.21.58:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.29-06.21.58:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.29-06.21.58:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.29-06.21.58:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.29-06.21.58:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.29-06.21.58:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.29-06.21.58:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.29-06.21.58:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.29-06.21.58:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.29-06.21.58:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.29-06.21.58:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.29-06.21.58:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.29-06.21.58:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.29-06.21.58:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.29-06.21.58:577][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.29-06.21.58:582][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.29-06.21.58:620][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.29-06.21.58:620][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../MyGame/AmericanHorrorStory/TheHouse/Intermediate/Shaders/WorkingDirectory/12920/).
+[2021.03.29-06.21.58:620][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/XINDONG/AppData/Local/Temp/UnrealShaderWorkingDir/4837E81D44B5278DFC6579988A14FDA4/'.
+[2021.03.29-06.21.58:620][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.29-06.21.58:620][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.29-06.21.59:180][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.29-06.21.59:220][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/XINDONG/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.29-06.21.59:220][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/XINDONG/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.29-06.21.59:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MyGame/AmericanHorrorStory/TheHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.29-06.21.59:220][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.29-06.21.59:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MyGame/AmericanHorrorStory/TheHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.29-06.21.59:220][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.29-06.21.59:229][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.29-06.21.59:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.29-06.21.59:229][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.29-06.21.59:261][  0]LogDerivedDataCache: Speed tests for C:/Users/XINDONG/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.03.29-06.21.59:261][  0]LogDerivedDataCache: Display: Performance to C:/Users/XINDONG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1757.78MBs, RandomWriteSpeed=29.79MBs. Assigned SpeedClass 'Local'
+[2021.03.29-06.21.59:261][  0]LogDerivedDataCache: Using Local data cache path C:/Users/XINDONG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.29-06.21.59:262][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.29-06.21.59:262][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.29-06.21.59:297][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.29-06.21.59:298][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.29-06.21.59:314][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2021.03.29-06.21.59:485][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.29-06.21.59:485][  0]LogInit: Active device profile: [000002B9E2FD3B00][000002B9E28899C0 49] Windows
+[2021.03.29-06.21.59:485][  0]LogInit: Profiles: [000002B9E2FD3B00][000002B9E28899C0 49] Windows, [000002B9E2FCC600][000002B9E288DB40 49] WindowsNoEditor, [000002B9E2FD0600][000002B9E2891CC0 49] WindowsServer, [000002B9E2FCF500][000002B9E2894180 49] WindowsClient, [000002B9E2FD3300][000002B9E2898300 49] IOS, [000002B9E2FCCD00][000002B9E289C480 49] iPadAir, [000002B9E2FD0A00][000002B9C6CDE600 49] iPadAir2, [000002B9E2F89200][000002B9C6CE68C0 49] IPadPro, [000002B9E2F89300][000002B9C6CE2900 49] iPadAir3, [000002B9E2FD3100][000002B9C6CEAA80 49] iPadAir4, [000002B9E2F88B00][000002B9C6CEEC00 49] iPadMini2, [000002B9E2FD0F00][000002B9C6CF2D80 49] iPadMini3, [000002B9E2F8A300][000002B9C6CF6F00 49] iPadMini4, [000002B9E2FD2900][000002B9C6CFB080 49] iPadMini5, [000002B9E2FCF700][000002B9C6D03340 49] iPhone6, [000002B9E2FCD100][000002B9C6CFF380 49] iPodTouch6, [000002B9E2F8A200][000002B9E2885600 49] iPhone7, [000002B9E2F88700][000002B9E38C3640 49] iPodTouch7, [000002B9E2FCF200][000002B9E3971780 49] iPhone5S, [000002B9E2F88200][000002B9E39798C0 49] iPhone6Plus, [000002B9E2FCDD00][000002B9E397DA00 49] iPhone6S, [000002B9E2F88F00][000002B9E3985B80 49] iPhone6SPlus, [000002B9E2FCE600][000002B9E3989D00 49] iPhone7Plus, [000002B9E2F8B700][000002B9E398C1C0 49] iPhoneSE, [000002B9E2FCC500][000002B9E3990340 49] iPhone8, [000002B9E2F89500][000002B9E39944C0 49] iPhone8Plus, [000002B9E2FCDA00][000002B9E3998640 49] iPhoneX, [000002B9E2F89D00][000002B9E39A07C0 49] iPhoneXS, [000002B9E2FCE400][000002B9E39A8940 49] iPhoneXSMax, [000002B9E2F8BF00][000002B9E39B0AC0 49] iPhoneXR, [000002B9E2FCE700][000002B9E39D8C40 49] iPhone11, [000002B9E2F88500][000002B9E39FCDC0 49] iPhone11Pro, [000002B9E2FCCB00][000002B9E3A00F40 49] iPhone11ProMax, [000002B9E2F8BB00][000002B9E3A050C0 49] iPhoneSE2, [000002B9E2FCE300][000002B9E3A09240 49] iPhone12Mini, [000002B9E2F8AA00][000002B9E3A0D3C0 49] iPhone12, [000002B9E2FCEF00][000002B9E3A21540 49] iPhone12Pro, [000002B9E2F8AE00][000002B9E3981680 49] iPhone12ProMax, [000002B9E2FCFE00][000002B9E3A357C0 49] iPadPro105, [000002B9E2F8AC00][000002B9E3A39900 49] iPadPro129, [000002B9E2FCE500][000002B9E3A3DA40 49] iPadPro97, [000002B9E2F89B00][000002B9E3A49BC0 49] iPadPro2_129, [000002B9E2FCEC00][000002B9E3A4DD40 49] iPad5, [000002B9E2F89400][000002B9E3A58200 49] iPad6, [000002B9E2FCF800][000002B9E3A5C380 49] iPad7, [000002B9E2F8B400][000002B9E3A6C500 49] iPad8, [000002B9E2FCC800][000002B9E3A70680 49] iPadPro11, [000002B9E2F8BD00][000002B9E3A74800 49] iPadPro2_11, [000002B9E2FCFA00][000002B9E3A78980 49] iPadPro3_129, [000002B9E2F8B800][000002B9E3A7CB00 49] iPadPro4_129, [000002B9E2FCE000][000002B9E3A80C80 49] AppleTV, [000002B9E2F8B100][000002B9E3A84E00 49] AppleTV4K, [000002B9E2FCE900][000002B9E3A88F80 49] TVOS, [000002B9E2F8BE00][000002B9E3A8D100 49] Mac, [000002B9E2FCD800][000002B9E3A91280 49] MacClient, [000002B9E2F8AF00][000002B9E3A95400 49] MacNoEditor, [000002B9E2FCD500][000002B9E3A99580 49] MacServer, [000002B9E2F8A600][000002B9E3A9D700 49] Linux, [000002B9E2FCD000][000002B9E3A45840 49] LinuxNoEditor, [000002B9E2F89000][000002B9E3AA1980 49] LinuxAArch64NoEditor, [000002B9E2FCED00][000002B9E3AA5AC0 49] LinuxClient, [000002B9E2F89800][000002B9E3AADC40 49] LinuxAArch64Client, [000002B9E2FCC400][000002B9E3AB0100 49] LinuxServer, [000002B9E2F8A000][000002B9E3AB4280 49] LinuxAArch64Server, [000002B9E2FD1500][000002B9E3AB8400 49] Android, [000002B9E304C500][000002B9E3ABC580 49] Android_Low, [000002B9E2FD3600][000002B9E3AEC700 49] Android_Mid, [000002B9E304C600][000002B9E3AF0880 49] Android_High, [000002B9E2FD2000][000002B9E3AF4A00 49] Android_Default, [000002B9E304C400][000002B9E3AF8B80 49] Android_Adreno4xx, [000002B9E2FD0400][000002B9E3AFCD00 49] Android_Adreno5xx_Low, [000002B9E304D600][000002B9E3B00E80 49] Android_Adreno5xx, [000002B9E2FD2400][000002B9E3B05000 49] Android_Adreno6xx, [000002B9E304D900][000002B9E3B09180 49] Android_Adreno6xx_Vulkan, [000002B9E2FD1800][000002B9E3B0D300 49] Android_Mali_T6xx, [000002B9E304D700][000002B9E3B11480 49] Android_Mali_T7xx, [000002B9E2FD0100][000002B9E3B15600 49] Android_Mali_T8xx, [000002B9E304CF00][000002B9E3B19780 49] Android_Mali_G71, [000002B9E2FD0700][000002B9E3AA98C0 49] Android_Mali_G72, [000002B9E304C100][000002B9E3B1DA00 49] Android_Mali_G72_Vulkan, [000002B9E2FD2A00][000002B9E3B21B40 49] Android_Mali_G76, [000002B9E304CC00][000002B9E3B29CC0 49] Android_Mali_G76_Vulkan, [000002B9E2FD3F00][000002B9E3B68180 49] Android_Mali_G77, [000002B9E304C300][000002B9E3B6C300 49] Android_Mali_G77_Vulkan, [000002B9E2F89600][000002B9E3B70480 49] Android_Vulkan_SM5, [000002B9E2FCF000][000002B9E3B74600 49] Android_PowerVR_G6xxx, [000002B9E2F8B000][000002B9E3B78780 49] Android_PowerVR_GT7xxx, [000002B9E2FCD700][000002B9E3B7C900 49] Android_PowerVR_GE8xxx, [000002B9E2F8A400][000002B9E3B80A80 49] Android_PowerVR_GM9xxx, [000002B9E2FCE100][000002B9E3B84C00 49] Android_PowerVR_GM9xxx_Vulkan, [000002B9E2F88400][000002B9E3B88D80 49] Android_TegraK1, [000002B9E2FCD400][000002B9E3B8CF00 49] Android_Unknown_Vulkan, [000002B9E2F88D00][000002B9E3B91080 49] Lumin, [000002B9E2FCDC00][000002B9E3B95200 49] Lumin_Desktop, [000002B9E2F8BA00][000002B9E3B99380 49] HoloLens, 
+[2021.03.29-06.21.59:561][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.29-06.21.59:561][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.29-06.21.59:561][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.29-06.21.59:561][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.29-06.21.59:561][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.29-06.21.59:579][  0]LogNetVersion: TheHouse 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2253516129)
+[2021.03.29-06.21.59:873][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.29-06.21.59:903][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.030063 seconds
+[2021.03.29-06.21.59:908][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.29-06.21.59:908][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.29-06.21.59:908][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.29-06.22.00:148][  0]LogPython: Using Python 3.7.7
+[2021.03.29-06.22.00:653][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.29-06.22.00:656][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.29-06.22.00:724][  0]SourceControl: Source control is disabled
+[2021.03.29-06.22.00:724][  0]SourceControl: Source control is disabled
+[2021.03.29-06.22.00:726][  0]SourceControl: Source control is disabled
+[2021.03.29-06.22.00:732][  0]SourceControl: Source control is disabled
+[2021.03.29-06.22.00:733][  0]SourceControl: Source control is disabled
+[2021.03.29-06.22.00:738][  0]LogUProjectInfo: Found projects:
+[2021.03.29-06.22.00:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.29-06.22.00:955][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.29-06.22.00:955][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.29-06.22.01:014][  0]LogCollectionManager: Loaded 0 collections in 0.001054 seconds
+[2021.03.29-06.22.01:033][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Saved/Collections/' took 0.00s
+[2021.03.29-06.22.01:033][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/Developers/XINDONG/Collections/' took 0.00s
+[2021.03.29-06.22.01:033][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/Collections/' took 0.00s
+[2021.03.29-06.22.01:033][  0]LogOcInput: OculusInput pre-init called
+[2021.03.29-06.22.01:041][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.29-06.22.01:041][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.29-06.22.01:316][  0]LogEngine: Initializing Engine...
+[2021.03.29-06.22.01:317][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.29-06.22.01:317][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.29-06.22.01:318][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.29-06.22.01:395][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.29-06.22.01:402][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.29-06.22.01:409][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.29-06.22.01:412][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.29-06.22.01:412][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.29-06.22.01:412][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.29-06.22.01:412][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.29-06.22.01:412][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.29-06.22.01:420][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.29-06.22.01:420][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.29-06.22.01:460][  0]LogAudioMixer: Display: Using Audio Device 耳机 (Realtek(R) Audio)
+[2021.03.29-06.22.01:464][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.29-06.22.01:465][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.29-06.22.01:465][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.29-06.22.01:466][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.29-06.22.01:466][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.29-06.22.01:466][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.29-06.22.01:467][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.29-06.22.01:467][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.29-06.22.01:467][  0]LogInit: FAudioDevice initialized.
+[2021.03.29-06.22.01:467][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.29-06.22.01:467][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.29-06.22.01:500][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/XINDONG/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.29-06.22.01:503][  0]LogInit: Texture streaming: Enabled
+[2021.03.29-06.22.01:512][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.29-06.22.01:514][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.29-06.22.01:514][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A197B233-482D-9569-441D-4688866753BA}
+[2021.03.29-06.22.01:515][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.29-06.22.01:516][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.29-06.22.01:541][  0]LogInit: Transaction tracking system initialized
+[2021.03.29-06.22.01:554][  0]BlueprintLog: New page: Editor Load
+[2021.03.29-06.22.01:599][  0]LocalizationService: Localization service is disabled
+[2021.03.29-06.22.01:614][  0]TimingProfiler: Initialize
+[2021.03.29-06.22.01:614][  0]TimingProfiler: OnSessionChanged
+[2021.03.29-06.22.01:614][  0]LoadingProfiler: Initialize
+[2021.03.29-06.22.01:614][  0]LoadingProfiler: OnSessionChanged
+[2021.03.29-06.22.01:614][  0]NetworkingProfiler: Initialize
+[2021.03.29-06.22.01:614][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.29-06.22.01:614][  0]MemoryProfiler: Initialize
+[2021.03.29-06.22.01:614][  0]MemoryProfiler: OnSessionChanged
+[2021.03.29-06.22.01:709][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.29-06.22.01:709][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.29-06.22.01:743][  0]LogFileCache: Scanning file cache for directory 'D:/MyGame/AmericanHorrorStory/TheHouse/Content/' took 0.00s
+[2021.03.29-06.22.01:946][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.29-06.22.01:948][  0]SourceControl: Source control is disabled
+[2021.03.29-06.22.01:948][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.694
+[2021.03.29-06.22.01:948][  0]Cmd: MAP LOAD FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-06.22.01:948][  0]LightingResults: New page: Lighting Build
+[2021.03.29-06.22.01:949][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.22.01:949][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.22.01:949][  0]MapCheck: New page: Map Check
+[2021.03.29-06.22.01:949][  0]LightingResults: New page: Lighting Build
+[2021.03.29-06.22.01:954][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.29-06.22.01:956][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.22.01:956][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.22.01:957][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.22.01:957][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.22.01:957][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.22.01:957][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.22.01:957][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.22.01:958][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.22.01:958][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.22.01:959][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2021.03.29-06.22.01:959][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh Referenced by StaticMeshComponent_252__1AD2D010
+[2021.03.29-06.22.01:962][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.22.01:962][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.22.01:963][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.22.01:964][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.22.01:965][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.22.01:966][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2021.03.29-06.22.01:966][  0]LoadErrors: Failed to load /Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02 Referenced by K2Node_CallFunction_3218
+[2021.03.29-06.22.01:967][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2021.03.29-06.22.01:967][  0]LoadErrors: Failed to load /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage Referenced by K2Node_CallFunction_4872
+[2021.03.29-06.22.01:968][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2021.03.29-06.22.01:968][  0]LoadErrors: Failed to load /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C Referenced by SkeletalMeshComponent_8__FC42DFE8
+[2021.03.29-06.22.01:968][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2021.03.29-06.22.01:968][  0]LoadErrors: Failed to load /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms Referenced by SkeletalMeshComponent_8__FC42DFE8
+[2021.03.29-06.22.01:968][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.22.01:968][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by FP_Gun_GEN_VARIABLE
+[2021.03.29-06.22.01:969][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.03.29-06.22.01:969][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by VR_Gun_GEN_VARIABLE
+[2021.03.29-06.22.02:015][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonHUD.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.22.02:015][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonHUD.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.22.02:015][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonHUD.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.22.02:016][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonGameMode.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.22.02:016][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonGameMode.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.22.02:016][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Blueprints\FirstPersonGameMode.uasset: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2021.03.29-06.22.02:016][  0]LoadErrors: Failed to load /Game/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair Referenced by K2Node_CallFunction_12988
+[2021.03.29-06.22.02:022][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:022][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:022][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:023][  0]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:023][  0]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:028][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:028][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:028][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:028][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:028][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:028][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:028][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:028][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:029][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:029][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:029][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:029][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:029][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:029][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:029][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:029][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:029][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:029][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:029][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:029][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:029][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:029][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:030][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:030][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:030][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:030][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:030][  0]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.22.02:030][  0]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by StaticMeshComponent0
+[2021.03.29-06.22.02:035][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.03.29-06.22.02:045][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.03.29-06.22.02:046][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.29-06.22.02:060][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:060][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:060][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:061][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:061][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:061][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:062][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:062][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.22.02:062][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-06.22.02:069][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.29-06.22.02:069][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-06.22.02:069][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2021.03.29-06.22.02:069][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.121
+[2021.03.29-06.22.02:071][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.816
+[2021.03.29-06.22.02:147][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2021.03.29-06.22.02:203][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.22.02:206][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.22.02:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.22.02:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.22.02:224][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0069 seconds. Added 3630 classes and 875 folders.
+[2021.03.29-06.22.02:225][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.29-06.22.02:226][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.29-06.22.02:226][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:226][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.22.02:226][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.03.29-06.22.02:227][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.29-06.22.02:227][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:227][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.29-06.22.02:227][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.03.29-06.22.02:227][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.29-06.22.02:227][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:227][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.29-06.22.02:227][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.22.02:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.29-06.22.02:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.29-06.22.02:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.29-06.22.02:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.29-06.22.02:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.29-06.22.02:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.29-06.22.02:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.29-06.22.02:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.29-06.22.02:230][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.29-06.22.02:230][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:230][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.22.02:230][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.29-06.22.02:231][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.29-06.22.02:231][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:231][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.22.02:231][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.29-06.22.02:232][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.29-06.22.02:232][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:232][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.22.02:232][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.22.02:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.29-06.22.02:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.29-06.22.02:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.29-06.22.02:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.29-06.22.02:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.29-06.22.02:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.29-06.22.02:235][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.29-06.22.02:235][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.22.02:235][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.29-06.22.02:235][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.29-06.22.02:253][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.29-06.22.02:254][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.29-06.22.02:291][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.29-06.22.02:292][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.29-06.22.02:295][  0]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.29-06.22.02:378][  0]LogRenderer: Reallocating scene render targets to support 1624x992 Format 10 NumSamples 1 (Frame:1).
+[2021.03.29-06.22.02:594][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.29-06.22.02:594][  0]LogLoad: (Engine Initialization) Total time: 5.34 seconds
+[2021.03.29-06.22.02:594][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.29-06.22.02:594][  0]LogInit: First time updating LLM stats...
+[2021.03.29-06.22.02:624][  0]LogAssetRegistry: Asset discovery search completed in 3.3101 seconds
+[2021.03.29-06.22.02:625][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.29-06.22.02:644][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.29-06.22.02:715][  0]LogSlate: Took 0.011534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.29-06.22.04:773][240]LogSlate: Window 'Message Log' being destroyed
+[2021.03.29-06.22.04:776][240]LogSlate: Window 'Message Log' being destroyed
+[2021.03.29-06.22.22:355][168]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.29-06.22.37:765][921]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.29-06.22.44:554][727]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.29-06.23.01:149][643]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.29-06.23.01:152][643]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.29-06.23.08:382][496]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.29-06.23.08:382][496]LogObjectTools: Currently 2 active worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap, /Engine/Transient.World_0
+[2021.03.29-06.23.10:392][496]LogSlate: Window 'Unable to delete level' being destroyed
+[2021.03.29-06.23.10:396][496]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2021.03.29-06.23.13:281][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.29-06.23.13:305][813]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SmallOne.SmallOne
+[2021.03.29-06.23.13:305][813]Cmd: MAP LOAD FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/SmallOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.29-06.23.13:305][813]LightingResults: New page: Lighting Build
+[2021.03.29-06.23.13:305][813]LoadErrors: New page: Loading map: SmallOne.umap
+[2021.03.29-06.23.13:306][813]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.23.13:306][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.23.13:306][813]MapCheck: New page: Map Check
+[2021.03.29-06.23.13:306][813]LightingResults: New page: Lighting Build
+[2021.03.29-06.23.13:310][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.29-06.23.13:310][813]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(None)
+[2021.03.29-06.23.13:310][813]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(None)
+[2021.03.29-06.23.13:312][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.29-06.23.13:312][813]LogAudio: Display: Audio Device (ID: 1) registered with world 'SmallOne'.
+[2021.03.29-06.23.13:325][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.29-06.23.13:325][813]LogAIModule: Creating AISystem for world SmallOne
+[2021.03.29-06.23.13:353][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.29-06.23.13:364][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.29-06.23.13:364][813]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2021.03.29-06.23.13:364][813]LogFileHelpers: Loading map 'SmallOne' took 0.059
+[2021.03.29-06.23.18:196][379]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.29-06.23.18:198][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:198][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:198][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:199][379]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:199][379]LogLinker: Warning: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:202][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:202][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube10_4
+[2021.03.29-06.23.18:202][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:202][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube11_5
+[2021.03.29-06.23.18:202][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:202][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube12_6
+[2021.03.29-06.23.18:202][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:202][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube13_7
+[2021.03.29-06.23.18:203][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:203][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube14_8
+[2021.03.29-06.23.18:203][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:203][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube15_9
+[2021.03.29-06.23.18:203][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:203][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube16_10
+[2021.03.29-06.23.18:203][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:203][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube17_11
+[2021.03.29-06.23.18:203][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:203][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube18_12
+[2021.03.29-06.23.18:203][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:203][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube19_13
+[2021.03.29-06.23.18:203][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:204][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube20_14
+[2021.03.29-06.23.18:204][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:204][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube21_15
+[2021.03.29-06.23.18:204][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:204][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube8_2
+[2021.03.29-06.23.18:204][379]LogLinker: Warning: [AssetLog] D:\MyGame\AmericanHorrorStory\TheHouse\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Failed to load '/Game/FirstPerson/Meshes/CubeMaterialOverride': Can't find file.
+[2021.03.29-06.23.18:204][379]LoadErrors: Failed to load /Game/FirstPerson/Meshes/CubeMaterialOverride.CubeMaterialOverride Referenced by EditorCube9_3
+[2021.03.29-06.23.18:207][379]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.03.29-06.23.18:225][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:225][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:225][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:226][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:226][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:227][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:227][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:227][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.18:227][379]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.29-06.23.18:227][379]LogObjectTools: Currently 2 active worlds: /Game/SmallOne.SmallOne, /Engine/Transient.World_0
+[2021.03.29-06.23.18:231][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.29-06.23.19:626][379]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.29-06.23.19:640][379]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.23.19:640][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.23.19:676][379]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_1)
+[2021.03.29-06.23.19:678][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.29-06.23.19:682][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.29-06.23.19:685][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.29-06.23.19:689][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.29-06.23.19:692][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.29-06.23.19:695][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.29-06.23.19:698][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.29-06.23.19:709][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.29-06.23.19:712][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.29-06.23.45:835][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Geometry/Meshes/1M_Cube.uasset
+[2021.03.29-06.23.45:903][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/CubeMaterial.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Geometry/Meshes/CubeMaterial.uasset
+[2021.03.29-06.23.45:942][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPersonIdle.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2021.03.29-06.23.45:980][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPersonJump_Loop.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2021.03.29-06.23.45:995][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPersonJump_Start.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2021.03.29-06.23.46:002][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPersonRun.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2021.03.29-06.23.46:008][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPersonWalk.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2021.03.29-06.23.46:013][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPerson_AnimBP.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2021.03.29-06.23.46:023][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPerson_IdleRun_2D.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2021.03.29-06.23.46:035][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Animations/ThirdPerson_Jump.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2021.03.29-06.23.46:063][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/M_Male_Body.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/M_Male_Body.uasset
+[2021.03.29-06.23.46:067][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/M_UE4Man_ChestLogo.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2021.03.29-06.23.46:074][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2021.03.29-06.23.46:086][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2021.03.29-06.23.46:102][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2021.03.29-06.23.46:130][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2021.03.29-06.23.46:141][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2021.03.29-06.23.46:166][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2021.03.29-06.23.46:174][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2021.03.29-06.23.46:180][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2021.03.29-06.23.46:201][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Mesh/SK_Mannequin.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2021.03.29-06.23.46:294][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2021.03.29-06.23.46:315][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Mesh/UE4_Mannequin_Skeleton.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2021.03.29-06.23.46:489][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Textures/T_Male_Mask.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Textures/T_Male_Mask.uasset
+[2021.03.29-06.23.46:506][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Textures/T_Male_N.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Textures/T_Male_N.uasset
+[2021.03.29-06.23.46:512][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Textures/T_UE4Logo_Mask.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset
+[2021.03.29-06.23.46:517][399]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Mannequin/Content/Character/Textures/T_UE4Logo_N.uasset to ../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset
+[2021.03.29-06.23.46:548][399]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_4.26/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.03.29-06.23.46:548][399]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.29-06.23.46:548][399]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.29-06.23.46:548][399]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.29-06.23.46:549][399]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.03.29-06.23.46:584][399]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2021.03.29-06.23.46:596][399]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset".
+[2021.03.29-06.23.46:601][399]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset".
+[2021.03.29-06.23.46:671][399]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2021.03.29-06.23.46:722][399]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2021.03.29-06.23.46:765][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2021.03.29-06.23.46:821][399]LogSavePackage: Moving '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/ThirdPersonOverviewB18055FC4EC76DAD2BAA5B9B189F36BC.tmp' to '../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2021.03.29-06.23.46:836][399]AssetCheck: New page: Asset Save: ThirdPersonOverview
+[2021.03.29-06.23.46:836][399]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2021.03.29-06.23.51:582][966]LogSlate: Window 'Add Content to the Project' being destroyed
+[2021.03.29-06.23.53:353][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2021.03.29-06.23.53:360][177]LogSavePackage: Moving '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/ThirdPersonOverview5867E1B24D6023DC276C58ADB853D762.tmp' to '../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2021.03.29-06.23.53:364][177]AssetCheck: New page: Asset Save: ThirdPersonOverview
+[2021.03.29-06.23.53:365][177]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2021.03.29-06.26.06:962][171]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.29-06.26.09:526][455]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.29-06.26.10:083][521]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.03.29-06.26.12:634][801]Cmd: DELETE
+[2021.03.29-06.26.12:634][801]Cmd: ACTOR DELETE
+[2021.03.29-06.26.12:693][801]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2021.03.29-06.26.12:706][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.29-06.26.12:708][801]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.03.29-06.26.15:914][183]Cmd: DELETE
+[2021.03.29-06.26.15:915][183]Cmd: ACTOR DELETE
+[2021.03.29-06.26.15:921][183]LogEditorActor: Deleted Actor: RecastNavMesh
+[2021.03.29-06.26.15:921][183]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2021.03.29-06.26.15:924][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.29-06.26.15:925][183]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.29-06.26.26:729][947]Cmd: DELETE
+[2021.03.29-06.26.26:729][947]Cmd: ACTOR DELETE
+[2021.03.29-06.26.26:736][947]LogEditorActor: Deleted Actor: PlayerStart
+[2021.03.29-06.26.26:740][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.29-06.26.26:741][947]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.29-06.26.39:491][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.29-06.26.39:641][429]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.03.29-06.26.40:268][429]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.29-06.26.44:801][831]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.29-06.26.48:119][112]LogSavePackage: Moving '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/ThirdPersonCharacter7AFE64854F0ECC59EBF52AA531595F6F.tmp' to '../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.29-06.26.48:129][112]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.29-06.26.48:129][112]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.29-06.31.02:793][776]LogSavePackage: Moving '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/ThirdPersonCharacter93198E8C4805F3164966FC8214DDB918.tmp' to '../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.29-06.31.02:801][776]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.29-06.31.02:801][776]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.29-06.31.07:509][294]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.29-06.31.08:016][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SmallOne" FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/SmallOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.29-06.31.08:045][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.29-06.31.08:140][348]LogSavePackage: Moving '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/SmallOne2F73F13C4DE24A44C2C70CA3B3F2FBF4.tmp' to '../../../../../MyGame/AmericanHorrorStory/TheHouse/Content/SmallOne.umap'
+[2021.03.29-06.31.08:162][348]AssetCheck: New page: Asset Save: SmallOne
+[2021.03.29-06.31.08:162][348]LogContentValidation: Display: Validating World /Game/SmallOne.SmallOne
+[2021.03.29-06.31.52:809][251]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.29-06.31.52:848][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.03.29-06.41.08:241][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.29-06.41.08:243][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SmallOne" FILE="../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/Autosaves/Game/SmallOne_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.29-06.41.08:335][682]LogSavePackage: Moving '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/SmallOne_Auto1651B200946BFE2EC0849428705967487.tmp' to '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/Autosaves/Game/SmallOne_Auto1.umap'
+[2021.03.29-06.41.08:339][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SmallOne' took 0.116
+[2021.03.29-06.41.08:339][682]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2021.03.29-06.41.08:339][682]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.03.29-06.41.08:353][682]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.03.29-06.41.08:353][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.03.29-06.41.08:374][682]LogSavePackage: Moving '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/ThirdPersonCharacter_Auto1C88621964C03A71AF090FABC8D7BBA2B.tmp' to '../../../../../MyGame/AmericanHorrorStory/TheHouse/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2021.03.29-06.41.08:374][682]LogFileHelpers: Auto-saving content packages took 0.036
+[2021.03.29-06.44.41:045][305]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.29-06.44.41:088][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.29-06.45.10:066][442]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.29-06.45.10:088][442]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.03.29-06.45.10:088][442]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.03.29-06.45.10:141][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.03.29-06.45.10:143][442]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2021.03.29-06.45.10:165][442]PIE: New page: PIE session: SmallOne (Mar 29, 2021, 10:45:10 PM)
+[2021.03.29-06.45.10:179][442]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.29-06.45.10:199][442]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.29-06.45.10:200][442]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SmallOne
+[2021.03.29-06.45.10:229][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029154s)
+[2021.03.29-06.45.10:230][442]LogAIModule: Creating AISystem for world SmallOne
+[2021.03.29-06.45.10:230][442]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2021.03.29-06.45.10:230][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SmallOne.SmallOne to /Game/UEDPIE_0_SmallOne.SmallOne (0.030137s)
+[2021.03.29-06.45.10:245][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.03.29-06.45.10:246][442]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.29-06.45.10:246][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.29-06.45.10:246][442]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.29-06.45.10:246][442]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.29-06.45.10:248][442]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.29-06.45.10:248][442]LogAudioMixer: Display: 1: FrontRight
+[2021.03.29-06.45.10:277][442]LogAudioMixer: Display: Using Audio Device 耳机 (Realtek(R) Audio)
+[2021.03.29-06.45.10:277][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.29-06.45.10:278][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.29-06.45.10:278][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.29-06.45.10:278][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.29-06.45.10:278][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.29-06.45.10:278][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.29-06.45.10:288][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.29-06.45.10:289][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.29-06.45.10:289][442]LogInit: FAudioDevice initialized.
+[2021.03.29-06.45.10:289][442]LogAudio: Display: Audio Device (ID: 2) registered with world 'SmallOne'.
+[2021.03.29-06.45.10:299][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.29-06.45.10:320][442]LogWorld: Bringing World /Game/UEDPIE_0_SmallOne.SmallOne up for play (max tick rate 0) at 2021.03.29-14.45.10
+[2021.03.29-06.45.10:349][442]LogWorld: Bringing up level for play took: 0.030917
+[2021.03.29-06.45.10:349][442]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.03.29-06.45.10:388][442]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2021.03.29-06.45.10:395][442]PIE: Server logged in
+[2021.03.29-06.45.10:400][442]PIE: Play in editor total start time 0.319 seconds.
+[2021.03.29-06.45.33:325][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.45.33:325][903]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SmallOne
+[2021.03.29-06.45.33:325][903]LogWorld: UWorld::CleanupWorld for SmallOne, bSessionEnded=true, bCleanupResources=true
+[2021.03.29-06.45.33:326][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.45.33:333][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.29-06.45.33:344][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.29-06.45.33:364][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.29-06.45.33:366][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-06.45.33:367][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.29-06.45.33:397][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.29-06.45.33:433][904]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.03.29-06.45.42:379][958]Cmd: DELETE
+[2021.03.29-06.45.42:379][958]Cmd: ACTOR DELETE
+[2021.03.29-06.45.42:386][958]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2021.03.29-06.45.42:417][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.03.29-06.45.42:419][958]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.03.29-06.47.25:492][309]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.29-06.47.25:534][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.03.29-06.47.33:832][428]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.29-06.47.33:840][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.29-06.47.33:840][428]PIE: New page: PIE session: SmallOne (Mar 29, 2021, 10:47:33 PM)
+[2021.03.29-06.47.33:840][428]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SmallOne
+[2021.03.29-06.47.33:869][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028892s)
+[2021.03.29-06.47.33:870][428]LogAIModule: Creating AISystem for world SmallOne
+[2021.03.29-06.47.33:870][428]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2021.03.29-06.47.33:870][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SmallOne.SmallOne to /Game/UEDPIE_0_SmallOne.SmallOne (0.029770s)
+[2021.03.29-06.47.33:890][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.29-06.47.33:891][428]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.29-06.47.33:891][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.29-06.47.33:891][428]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.29-06.47.33:891][428]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.29-06.47.33:893][428]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.29-06.47.33:893][428]LogAudioMixer: Display: 1: FrontRight
+[2021.03.29-06.47.33:922][428]LogAudioMixer: Display: Using Audio Device 耳机 (Realtek(R) Audio)
+[2021.03.29-06.47.33:922][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.29-06.47.33:922][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.29-06.47.33:922][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.29-06.47.33:922][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.29-06.47.33:922][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.29-06.47.33:922][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.29-06.47.33:933][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.29-06.47.33:933][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.29-06.47.33:933][428]LogInit: FAudioDevice initialized.
+[2021.03.29-06.47.33:933][428]LogAudio: Display: Audio Device (ID: 3) registered with world 'SmallOne'.
+[2021.03.29-06.47.33:949][428]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.29-06.47.33:952][428]LogWorld: Bringing World /Game/UEDPIE_0_SmallOne.SmallOne up for play (max tick rate 0) at 2021.03.29-14.47.33
+[2021.03.29-06.47.33:952][428]LogWorld: Bringing up level for play took: 0.001748
+[2021.03.29-06.47.33:952][428]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.03.29-06.47.33:954][428]PIE: Server logged in
+[2021.03.29-06.47.33:955][428]PIE: Play in editor total start time 0.115 seconds.
+[2021.03.29-06.47.33:966][428]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+ThirdPersonCharacter_C.InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53
+
+[2021.03.29-06.47.34:402][428]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.436 s
+[2021.03.29-06.47.34:402][428]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: 
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: Type mismatch: Expected ThirdPersonCharacter_C, Found REINST_ThirdPersonCharacter_C_48
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: Stack: 
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8665ded07 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff864ef7824 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8638846fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff863cfc46a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ba9cbf71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ba9e0740 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ba9b238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ba9b1794 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ba7226a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ba9b0ef3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff864bfc125 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff865f0ac53 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8659b577c UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8659c8fd2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8659b36eb UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8659c6ea1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff864bdf46e UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff865dbb44e UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff865dc40f0 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8b736ed11 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8b736f0fe UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8b738092d UE4Editor-Core.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff865de0ffe UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff865de793a UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff86550886f UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff865513109 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8634394d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff863d54206 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff792339bda UE4Editor.exe!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff7923511ac UE4Editor.exe!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff79235128a UE4Editor.exe!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff7923652ed UE4Editor.exe!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff79236801a UE4Editor.exe!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb77034 KERNEL32.DLL!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: [Callstack] 0x00007ff8ffe02651 ntdll.dll!UnknownFunction []
+[2021.03.29-06.47.34:403][428]LogOutputDevice: Error: 
